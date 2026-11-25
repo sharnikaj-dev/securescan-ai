@@ -1,0 +1,6 @@
+{
+  "name": "SecureScan AI",
+  "description": "AI-Powered Software Vulnerability Detection and Automated Secure Code Analysis Framework.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
